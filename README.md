@@ -1,0 +1,1 @@
+# arteza_azure_project
